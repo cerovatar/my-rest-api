@@ -62,11 +62,6 @@
   <a href="https://youtu.be/FqgjPDqWsF0"><img src="https://telegra.ph/file/65daaa8264afddd90ccb5.jpg" />
 </p>
 
-
-## ```Coffee ☕```
-
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
-
 ## ```Thanks To```
 
 - [`Zahir`]()
@@ -76,3 +71,4 @@
 - [`Creative Team`]()
 - [`Danzzcoding`]()
 - [`ZeeoneOfc`]()
+- [`Toxcar_Cyber_Team`]()
