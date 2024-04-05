@@ -1,4 +1,4 @@
-# ```Alphabot-Api```
+# ```ZinXploit-API```
 <p align="center">
 <a href="https://github.com/cerovatar/followers"><img title="Followers" src="https://img.shields.io/github/followers/cerovatar?color=red&style=flat-square"></a>
 <a href="https://github.com/cerovatar/my-rest-api/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/cerovatar/my-rest-api?color=blue&style=flat-square"></a>
