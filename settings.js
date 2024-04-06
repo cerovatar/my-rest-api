@@ -4,9 +4,10 @@ global.creator = 'ZINXPLOIT// yourname
 global.MONGO_DB_URI = "mongodb+srv://cerovatarzinakawara:<password>@cluster0.yxwtje9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "cerovatarzinakawara@gmail.com" //email
-global.email_password = "gajah123" //application password email
+global.email_password = "Zinaga" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
+global.Api = "ZinXploit"
 global.loghandler = {
 	noapikey:{
 		status: 403,
